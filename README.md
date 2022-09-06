@@ -1,2 +1,2 @@
 # BellaBeat
-Data Analysis Capstone Project from Google Data Analytic Certificate
+Data Analysis Capstone Project from Google Data Analytics Certificate
