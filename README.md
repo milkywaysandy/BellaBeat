@@ -12,11 +12,11 @@ By analyze consumers’ behavior trends from a similar competitor, this page pro
 通過分析同類競爭對手的消費者行為趨勢，此頁為 BellaBeat 的營銷策略和建議。
 
 # Suggestion
-1. Develop additional product line to connect other aspects of user’s health life, such as weight scale that is similar to Spring water bottle.</br>
-2. By understand the most active time period,  it suggests the best moment to engage our users further with BellaBeat community via signaling their achievement.</br>
+* Develop additional product line to connect other aspects of user’s health life, such as weight scale that is similar to Spring water bottle.</br>
+* By understand the most active time period,  it suggests the best moment to engage our users further with BellaBeat community via signaling their achievement.</br>
 
-1. 開發附加產品線以連接用戶各健康生活方面，例、體重秤。</br>
-2. 通過了解用戶最活躍的時間段，計劃最好的社群連結時機、增加用戶黏著度。</br>
+* 開發附加產品線以連接用戶各健康生活方面，例、體重秤。</br>
+* 通過了解用戶最活躍的時間段，計劃最好的社群連結時機、增加用戶黏著度。</br>
 
 # Visualization
 <img width="915" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
