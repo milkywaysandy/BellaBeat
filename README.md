@@ -8,7 +8,8 @@ As a data analyst working on the marketing analyst team at Bellabeat, a high-tec
 中文。<br/>
 
 # Visualization
-![visualization graphs]<img width="915" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
+<img width="915" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
+<img width="906" alt="bar visual graph" src="https://user-images.githubusercontent.com/63726744/188815771-41074dc6-afbc-4ec3-b427-0ea2ffecc2fc.png">
 
 # Database
 FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): This Kaggle data set
