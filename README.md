@@ -7,6 +7,11 @@ As a data analyst working on the marketing analyst team at Bellabeat, a high-tec
 **目的:**</br>
 中文。<br/>
 
+# Business Suggestion
+1. Develop additional product line to connect other aspects of user’s health life, such as weight scale that is similar to Spring water bottle.</br>
+2. By understand the most active time period,  it suggests the best moment to engage our users further with BellaBeat community via signaling their achievement.</br>
+
+
 # Visualization
 <img width="915" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
 <img width="906" alt="bar visual graph" src="https://user-images.githubusercontent.com/63726744/188815771-41074dc6-afbc-4ec3-b427-0ea2ffecc2fc.png">
